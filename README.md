@@ -34,5 +34,3 @@ Judicael Tokan
 Ottawa, Canada
 
 ---
-
-Feel free to customize the wording or add screenshots, usage examples, or even a license section if you want to make it more complete. Want me to help you write a short project summary for your GitHub profile too?
